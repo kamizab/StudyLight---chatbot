@@ -1,0 +1,15 @@
+studylight/
+├─ app.py
+├─ pages/
+│  └─ 1_Quiz_Bot.py
+├─ src/
+│  ├─ __init__.py
+│  ├─ state.py
+│  ├─ chat_flow.py
+│  ├─ quiz_engine.py
+│  ├─ llm_client.py
+│  └─ prompt_templates.py
+├─ .streamlit/
+│  └─ secrets.toml
+├─ .gitignore
+└─ requirements.txt
